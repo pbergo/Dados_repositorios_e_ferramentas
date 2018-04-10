@@ -7,3 +7,5 @@
 [MPRJ](http://apps.mprj.mp.br/sistema/mpmapas/home.html)
 
 [Dados Abertos Prefeitura de São Paulo](http://dados.prefeitura.sp.gov.br/pt_PT/)
+
+[Dados Abertos Prefeitura de Belo Horizonte](https://prefeitura.pbh.gov.br/bhtrans/informacoes/dados/dados-abertos)
